@@ -1,14 +1,19 @@
 {
   "redirects": [
     {
+      "source": "/assets/pisirsem-logo.svg",
+      "destination": "/assets/pisirsem-logo-official.png",
+      "permanent": false
+    },
+    {
       "source": "/assets/pisirsem-logo.jpg",
-      "destination": "https://raw.githubusercontent.com/uguryesilbas-ui/pisirsem-web/main/assets/pisirsem-logo-final.jpg",
+      "destination": "/assets/pisirsem-logo-official.png",
       "permanent": false
     }
   ],
   "headers": [
     {
-      "source": "/assets/pisirsem-logo.jpg",
+      "source": "/assets/pisirsem-logo-official.png",
       "headers": [
         { "key": "Cache-Control", "value": "no-store, max-age=0" }
       ]
