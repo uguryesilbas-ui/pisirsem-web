@@ -1,0 +1,16 @@
+# Gizli bilgiler: bu depo herkese açık, bu dosyalar asla gönderilmesin
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+service-account*.json
+
+# Sistem ve editör dosyaları
+.DS_Store
+Thumbs.db
+node_modules/
+.vercel
