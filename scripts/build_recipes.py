@@ -22,7 +22,7 @@ import re
 import sys
 from pathlib import Path
 
-SITE = "https://pisirsem.com.tr"
+SITE = "https://www.pisirsem.com.tr"  # alan adı www adresine yönlendiriyor
 PLAY = "https://play.google.com/store/apps/details?id=com.pisirsem.app"
 WEB = Path(__file__).resolve().parent.parent
 OUT = WEB / "en" / "recipes"
