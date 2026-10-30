@@ -1,0 +1,6488 @@
+[
+ {
+  "id": "avokadolu-yumurtali-ekmek",
+  "title": "Avocado Toast with Eggs",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 14,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "wholemeal bread",
+   "avocado",
+   "eggs",
+   "lemon",
+   "salt",
+   "black pepper",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "sağlıklı",
+   "tok tutan"
+  ]
+ },
+ {
+  "id": "avokadolu_peynirli_tost",
+  "title": "Avocado and Cheese Toastie",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 14,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "wholemeal bread",
+   "avocado",
+   "white cheese (feta)",
+   "lemon"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik"
+  ]
+ },
+ {
+  "id": "firinda-peynirli-yumurta",
+  "title": "Baked Eggs with Cheese",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 31,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "white cheese (feta)",
+   "tomato",
+   "milk",
+   "olive oil",
+   "black pepper",
+   "thyme"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "fırın"
+  ]
+ },
+ {
+  "id": "firinda-ispanakli-omlet",
+  "title": "Baked Spinach Omelette",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 39,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "spinach",
+   "white cheese (feta)",
+   "milk",
+   "onion",
+   "olive oil",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "fırın"
+  ]
+ },
+ {
+  "id": "muzlu_pankek",
+  "title": "Banana Pancakes",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 22,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "banana",
+   "eggs",
+   "rolled oats",
+   "cinnamon",
+   "butter",
+   "honey"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "sporcu"
+  ]
+ },
+ {
+  "id": "yogurtlu_yumurtali_kase",
+  "title": "Boiled Eggs on Garlic Yogurt",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 14,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "yogurt",
+   "garlic",
+   "butter",
+   "red pepper flakes",
+   "dried mint",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "protein"
+  ]
+ },
+ {
+  "id": "kahvaltilik_sebze_kavurmasi",
+  "title": "Breakfast Vegetable Hash with Eggs",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 26,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "potato",
+   "pepper",
+   "tomato",
+   "eggs",
+   "olive oil",
+   "salt",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "peynirli-gozleme",
+  "title": "Cheese Gözleme (Stuffed Flatbread)",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 22,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "yufka (filo sheets)",
+   "white cheese (feta)",
+   "parsley",
+   "butter",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "hamur işi"
+  ]
+ },
+ {
+  "id": "peynirli-omlet",
+  "title": "Cheese Omelette",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 10,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "white cheese (feta)",
+   "butter",
+   "milk",
+   "black pepper",
+   "parsley"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "protein"
+  ]
+ },
+ {
+  "id": "peynirli_zeytinli_kase",
+  "title": "Cheese and Olive Bowl",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 8,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "white cheese (feta)",
+   "olives",
+   "tomato",
+   "cucumber",
+   "olive oil",
+   "thyme"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "sutlu_yumurta_kapama",
+  "title": "Creamy Soft Scrambled Eggs",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 8,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "milk",
+   "butter",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "çocuk dostu"
+  ]
+ },
+ {
+  "id": "patatesli-yumurta",
+  "title": "Eggs with Potatoes",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 26,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "potato",
+   "onion",
+   "sunflower oil",
+   "salt",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "ekonomik",
+   "tok tutan"
+  ]
+ },
+ {
+  "id": "sucuklu-yumurta",
+  "title": "Eggs with Sucuk",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 9,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "sucuk (spiced sausage)",
+   "butter",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "popüler"
+  ]
+ },
+ {
+  "id": "balli_cevizli_yogurt_kasesi",
+  "title": "Honey and Walnut Yogurt Bowl",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 5,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "strained yogurt",
+   "honey",
+   "walnuts",
+   "banana"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "kasarli_omlet",
+  "title": "Kashar Cheese Omelette",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 8,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "kashar cheese",
+   "milk",
+   "butter",
+   "salt"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "çocuk dostu"
+  ]
+ },
+ {
+  "id": "kasarli-tost",
+  "title": "Kashar Cheese Toastie",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 15,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "sandwich bread",
+   "kashar cheese",
+   "butter"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "çocuk dostu"
+  ]
+ },
+ {
+  "id": "kasarli_mantarli_tost",
+  "title": "Kashar Cheese and Mushroom Toastie",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 18,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "sandwich bread",
+   "kashar cheese",
+   "mushrooms",
+   "butter",
+   "salt"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik"
+  ]
+ },
+ {
+  "id": "lavas_kahvalti_durumu",
+  "title": "Lavash Breakfast Wrap",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 12,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "lavash",
+   "eggs",
+   "white cheese (feta)",
+   "tomato",
+   "lettuce",
+   "butter",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik"
+  ]
+ },
+ {
+  "id": "menemen",
+  "title": "Menemen (Turkish Scrambled Eggs)",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 22,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "tomato",
+   "pepper",
+   "onion",
+   "olive oil",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "ekonomik",
+   "popüler"
+  ]
+ },
+ {
+  "id": "mantarli_omlet",
+  "title": "Mushroom Omelette",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 15,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "mushrooms",
+   "milk",
+   "olive oil",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik"
+  ]
+ },
+ {
+  "id": "yulafli_omlet",
+  "title": "Oat Omelette",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 15,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "rolled oats",
+   "lor cheese (ricotta-style)",
+   "milk",
+   "olive oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "sporcu",
+   "protein"
+  ]
+ },
+ {
+  "id": "yulafli-muzlu-kahvalti-kasesi",
+  "title": "Oat and Banana Breakfast Bowl",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 10,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "rolled oats",
+   "milk",
+   "banana",
+   "yogurt",
+   "honey",
+   "walnuts",
+   "cinnamon"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "sağlıklı",
+   "sporcu",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "zeytin_ezmeli_tost",
+  "title": "Olive Paste Toastie",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 14,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "sandwich bread",
+   "olive paste",
+   "kashar cheese"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "az malzeme"
+  ]
+ },
+ {
+  "id": "lor_peynirli_acik_tost",
+  "title": "Open Toast with Lor Cheese",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 13,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "wholemeal bread",
+   "lor cheese (ricotta-style)",
+   "tomato",
+   "olive oil",
+   "thyme",
+   "salt"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "protein"
+  ]
+ },
+ {
+  "id": "tavada_lorlu_biber",
+  "title": "Pan-Cooked Peppers Stuffed with Lor Cheese",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 18,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pepper",
+   "lor cheese (ricotta-style)",
+   "parsley",
+   "olive oil",
+   "salt",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik"
+  ]
+ },
+ {
+  "id": "sahanda-peynirli-domates",
+  "title": "Pan-Cooked Tomatoes with Cheese",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 12,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "tomato",
+   "white cheese (feta)",
+   "pepper",
+   "olive oil",
+   "thyme",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "az malzeme",
+   "pratik"
+  ]
+ },
+ {
+  "id": "tavada_peynirli_ekmek",
+  "title": "Pan-Fried Cheesy Bread",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 13,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "stale bread",
+   "eggs",
+   "milk",
+   "white cheese (feta)",
+   "parsley",
+   "sunflower oil"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "tavada-bazlama-tost",
+  "title": "Pan-Toasted Bazlama",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 16,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "bazlama flatbread",
+   "kashar cheese",
+   "tomato",
+   "butter"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "doyurucu",
+   "pratik"
+  ]
+ },
+ {
+  "id": "biberli_omlet",
+  "title": "Pepper Omelette",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 12,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "pepper",
+   "olive oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "az malzeme"
+  ]
+ },
+ {
+  "id": "patatesli_gozleme",
+  "title": "Potato Gözleme (Stuffed Flatbread)",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 41,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "yufka (filo sheets)",
+   "potato",
+   "onion",
+   "sunflower oil",
+   "red pepper flakes",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "hamur işi",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "patatesli_omlet",
+  "title": "Potato Omelette",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 24,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "potato",
+   "onion",
+   "olive oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "peynirli_pankek",
+  "title": "Savoury Cheese Pancakes",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 20,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "flour",
+   "eggs",
+   "milk",
+   "white cheese (feta)",
+   "baking powder",
+   "sunflower oil",
+   "parsley"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik"
+  ]
+ },
+ {
+  "id": "lor-peynirli-yumurta",
+  "title": "Scrambled Eggs with Lor Cheese",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 10,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "lor cheese (ricotta-style)",
+   "olive oil",
+   "salt",
+   "parsley",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "protein",
+   "sporcu"
+  ]
+ },
+ {
+  "id": "simitli_kahvalti_tabagi",
+  "title": "Simit Breakfast Plate",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 8,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "simit",
+   "white cheese (feta)",
+   "tomato",
+   "cucumber",
+   "olives",
+   "olive oil",
+   "thyme"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "hindi_fume_tost",
+  "title": "Smoked Turkey Toastie",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 14,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "sandwich bread",
+   "smoked turkey",
+   "kashar cheese",
+   "tomato"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "protein"
+  ]
+ },
+ {
+  "id": "kahvaltilik_acili_ezme",
+  "title": "Spicy Breakfast Ezme (Tomato and Pepper Dip)",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 30,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "tomato",
+   "pepper",
+   "onion",
+   "parsley",
+   "walnuts",
+   "hot pepper paste",
+   "pomegranate molasses",
+   "olive oil",
+   "salt",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "meze",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "ispanakli_gozleme",
+  "title": "Spinach Gözleme (Stuffed Flatbread)",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 31,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "yufka (filo sheets)",
+   "spinach",
+   "white cheese (feta)",
+   "onion",
+   "olive oil",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "hamur işi",
+   "sebze"
+  ]
+ },
+ {
+  "id": "ispanakli-omlet",
+  "title": "Spinach Omelette",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 17,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "spinach",
+   "onion",
+   "olive oil",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "sağlıklı",
+   "protein"
+  ]
+ },
+ {
+  "id": "sucuklu_kasarli_tost",
+  "title": "Sucuk and Kashar Cheese Toastie",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 15,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "sandwich bread",
+   "sucuk (spiced sausage)",
+   "kashar cheese"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik"
+  ]
+ },
+ {
+  "id": "domates_soslu_ekmek_ustu",
+  "title": "Toast with Tomato Sauce",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 13,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "bread",
+   "tomato",
+   "garlic",
+   "olive oil",
+   "thyme",
+   "salt"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "domatesli_peynirli_omlet",
+  "title": "Tomato and Cheese Omelette",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 13,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "tomato",
+   "white cheese (feta)",
+   "olive oil",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik"
+  ]
+ },
+ {
+  "id": "ton_balikli_kahvalti_sandvici",
+  "title": "Tuna Breakfast Sandwich",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 8,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "wholemeal bread",
+   "canned tuna",
+   "yogurt",
+   "lemon",
+   "lettuce",
+   "tomato",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik",
+   "protein",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "sebzeli-krep",
+  "title": "Vegetable Crêpes",
+  "category": "Breakfast",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 38,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "flour",
+   "eggs",
+   "milk",
+   "spinach",
+   "kashar cheese",
+   "white cheese (feta)",
+   "sunflower oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "kahvaltı"
+  ]
+ },
+ {
+  "id": "sebzeli-omlet",
+  "title": "Vegetable Omelette",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 20,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "pepper",
+   "tomato",
+   "mushrooms",
+   "kashar cheese",
+   "olive oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "sebzeli",
+   "protein"
+  ]
+ },
+ {
+  "id": "beyaz_peynirli_domatesli_tost",
+  "title": "White Cheese and Tomato Toastie",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 15,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "sandwich bread",
+   "white cheese (feta)",
+   "tomato",
+   "butter"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "pratik"
+  ]
+ },
+ {
+  "id": "yogurtlu-meyveli-kase",
+  "title": "Yogurt and Fruit Bowl",
+  "category": "Breakfast",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 8,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "yogurt",
+   "apple",
+   "banana",
+   "rolled oats",
+   "walnuts",
+   "honey",
+   "cinnamon"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "hafif",
+   "sağlıklı",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "cilbir",
+  "title": "Çılbır (Poached Eggs on Garlic Yogurt)",
+  "category": "Breakfast",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 19,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "yogurt",
+   "garlic",
+   "butter",
+   "red pepper flakes",
+   "vinegar",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "kahvaltı",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "lahana-corbasi",
+  "title": "Black Sea Cabbage Soup",
+  "category": "Soups",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 70,
+  "soak": "overnight (at least 8 hours), for the beans",
+  "image": null,
+  "ingredients": [
+   "black cabbage (kale)",
+   "dried borlotti beans",
+   "cornmeal",
+   "onion",
+   "tomato paste",
+   "butter",
+   "red pepper flakes",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "çorba",
+   "sebze",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "brokoli-corbasi",
+  "title": "Broccoli Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 32,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "broccoli",
+   "potato",
+   "onion",
+   "butter",
+   "milk",
+   "water",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "çorba",
+   "sebze"
+  ]
+ },
+ {
+  "id": "karnabahar-corbasi",
+  "title": "Cauliflower Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 37,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cauliflower",
+   "potato",
+   "onion",
+   "butter",
+   "milk",
+   "water",
+   "salt",
+   "nutmeg"
+  ],
+  "tags_tr": [
+   "çorba",
+   "sebze"
+  ]
+ },
+ {
+  "id": "kereviz-corbasi",
+  "title": "Celeriac Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 45,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "celeriac",
+   "potato",
+   "onion",
+   "butter",
+   "milk",
+   "lemon",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "çorba",
+   "sebze",
+   "hafif"
+  ]
+ },
+ {
+  "id": "tavuk-suyu-corbasi",
+  "title": "Chicken Noodle Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 58,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken thighs",
+   "vermicelli",
+   "carrot",
+   "lemon",
+   "salt",
+   "black pepper",
+   "water",
+   "parsley"
+  ],
+  "tags_tr": [
+   "çorba",
+   "şifalı",
+   "protein"
+  ]
+ },
+ {
+  "id": "tavuklu-yogurt-corbasi",
+  "title": "Chicken and Yogurt Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 51,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "yogurt",
+   "rice",
+   "flour",
+   "eggs",
+   "butter",
+   "dried mint",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "çorba",
+   "protein"
+  ]
+ },
+ {
+  "id": "nohut-corbasi",
+  "title": "Chickpea Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 39,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cooked chickpeas",
+   "onion",
+   "carrot",
+   "garlic",
+   "tomato paste",
+   "olive oil",
+   "cumin",
+   "salt",
+   "water",
+   "lemon"
+  ],
+  "tags_tr": [
+   "çorba",
+   "bakliyat",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "dugun-corbasi",
+  "title": "Düğün Çorbası (Wedding Soup)",
+  "category": "Soups",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 70,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "bone-in beef",
+   "flour",
+   "yogurt",
+   "eggs",
+   "lemon",
+   "butter",
+   "paprika",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "çorba",
+   "et",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "ezogelin-corbasi",
+  "title": "Ezogelin Soup (Lentil and Bulgur Soup)",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 41,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "red lentils",
+   "bulgur",
+   "rice",
+   "onion",
+   "tomato paste",
+   "butter",
+   "fresh mint",
+   "red pepper flakes",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "çorba",
+   "doyurucu",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "balik-corbasi",
+  "title": "Fish Soup",
+  "category": "Soups",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 55,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "sea bass",
+   "potato",
+   "carrot",
+   "onion",
+   "flour",
+   "lemon",
+   "eggs",
+   "parsley",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "çorba",
+   "balık",
+   "hafif"
+  ]
+ },
+ {
+  "id": "yesil-mercimek-corbasi",
+  "title": "Green Lentil Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 61,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "green lentils",
+   "onion",
+   "carrot",
+   "potato",
+   "tomato paste",
+   "butter",
+   "fresh mint",
+   "salt",
+   "water",
+   "lemon"
+  ],
+  "tags_tr": [
+   "çorba",
+   "bakliyat",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "pirasa-corbasi",
+  "title": "Leek Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 45,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "leek",
+   "potato",
+   "onion",
+   "butter",
+   "flour",
+   "milk",
+   "salt",
+   "water",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "çorba",
+   "sebze",
+   "hafif"
+  ]
+ },
+ {
+  "id": "limonlu-tavuklu-sehriye-corbasi",
+  "title": "Lemony Chicken Vermicelli Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 51,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "orzo",
+   "carrot",
+   "lemon",
+   "eggs",
+   "flour",
+   "butter",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "çorba",
+   "tavuk",
+   "protein"
+  ]
+ },
+ {
+  "id": "mantar-corbasi",
+  "title": "Mushroom Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 27,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "mushrooms",
+   "onion",
+   "butter",
+   "flour",
+   "milk",
+   "water",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "çorba",
+   "kremalı",
+   "pratik"
+  ]
+ },
+ {
+  "id": "bezelye-corbasi",
+  "title": "Pea Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 29,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "peas",
+   "onion",
+   "potato",
+   "butter",
+   "milk",
+   "water",
+   "salt",
+   "fresh mint"
+  ],
+  "tags_tr": [
+   "çorba",
+   "sebze"
+  ]
+ },
+ {
+  "id": "patates-corbasi",
+  "title": "Potato Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 38,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "potato",
+   "onion",
+   "butter",
+   "milk",
+   "water",
+   "salt",
+   "black pepper",
+   "parsley"
+  ],
+  "tags_tr": [
+   "çorba",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "balkabagi-corbasi",
+  "title": "Pumpkin Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 49,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pumpkin",
+   "onion",
+   "carrot",
+   "ginger",
+   "butter",
+   "milk",
+   "salt",
+   "black pepper",
+   "water",
+   "pumpkin seeds"
+  ],
+  "tags_tr": [
+   "çorba",
+   "sebze",
+   "hafif"
+  ]
+ },
+ {
+  "id": "mercimek-corbasi",
+  "title": "Red Lentil Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 41,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "red lentils",
+   "onion",
+   "carrot",
+   "potato",
+   "sunflower oil",
+   "flour",
+   "salt",
+   "cumin",
+   "water",
+   "lemon"
+  ],
+  "tags_tr": [
+   "çorba",
+   "ekonomik",
+   "popüler"
+  ]
+ },
+ {
+  "id": "firinlanmis-domates-corbasi",
+  "title": "Roasted Tomato Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 53,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "tomato",
+   "onion",
+   "garlic",
+   "olive oil",
+   "thyme",
+   "water",
+   "milk",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "çorba",
+   "sebze",
+   "fırın"
+  ]
+ },
+ {
+  "id": "ispanak-corbasi",
+  "title": "Spinach Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 38,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "spinach",
+   "onion",
+   "rice",
+   "flour",
+   "butter",
+   "yogurt",
+   "eggs",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "çorba",
+   "sebze",
+   "hafif"
+  ]
+ },
+ {
+  "id": "tarhana-corbasi",
+  "title": "Tarhana Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 29,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "tarhana",
+   "tomato paste",
+   "butter",
+   "garlic",
+   "salt",
+   "water",
+   "dried mint"
+  ],
+  "tags_tr": [
+   "çorba",
+   "geleneksel",
+   "pratik"
+  ]
+ },
+ {
+  "id": "domates-corbasi",
+  "title": "Tomato Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 31,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "tomato",
+   "flour",
+   "butter",
+   "tomato paste",
+   "water",
+   "milk",
+   "salt",
+   "black pepper",
+   "kashar cheese"
+  ],
+  "tags_tr": [
+   "çorba",
+   "pratik",
+   "çocuk dostu"
+  ]
+ },
+ {
+  "id": "sebze-corbasi",
+  "title": "Vegetable Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 42,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "potato",
+   "carrot",
+   "zucchini",
+   "onion",
+   "garlic",
+   "olive oil",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "çorba",
+   "sebzeli",
+   "hafif"
+  ]
+ },
+ {
+  "id": "sehriye-corbasi",
+  "title": "Vermicelli Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 18,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "vermicelli",
+   "tomato",
+   "tomato paste",
+   "sunflower oil",
+   "salt",
+   "dried mint",
+   "water",
+   "lemon"
+  ],
+  "tags_tr": [
+   "çorba",
+   "ekonomik",
+   "hızlı"
+  ]
+ },
+ {
+  "id": "yayla-corbasi",
+  "title": "Yayla Soup (Yogurt and Rice Soup)",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 26,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "yogurt",
+   "rice",
+   "flour",
+   "eggs",
+   "butter",
+   "dried mint",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "çorba",
+   "yoğurtlu",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "yogurtlu-bugday-corbasi",
+  "title": "Yogurt Soup with Wheat Berries",
+  "category": "Soups",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 47,
+  "soak": "overnight (at least 8 hours), for the wheat",
+  "image": null,
+  "ingredients": [
+   "whole wheat berries",
+   "cooked chickpeas",
+   "yogurt",
+   "flour",
+   "eggs",
+   "butter",
+   "dried mint",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "çorba",
+   "doyurucu",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "kabak-corbasi",
+  "title": "Zucchini Soup",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 31,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "zucchini",
+   "onion",
+   "garlic",
+   "potato",
+   "olive oil",
+   "yogurt",
+   "water",
+   "salt",
+   "black pepper",
+   "dill"
+  ],
+  "tags_tr": [
+   "çorba",
+   "sebze"
+  ]
+ },
+ {
+  "id": "zeytinyagli-enginar",
+  "title": "Artichokes in Olive Oil",
+  "category": "Vegetable Dishes",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 70,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "artichoke",
+   "potato",
+   "carrot",
+   "spring onion",
+   "peas",
+   "lemon",
+   "olive oil",
+   "dill",
+   "sugar",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "zeytinyağlı",
+   "sebze",
+   "hafif",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "firinda-karnabahar",
+  "title": "Baked Cauliflower",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 42,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cauliflower",
+   "yogurt",
+   "eggs",
+   "flour",
+   "kashar cheese",
+   "olive oil",
+   "salt",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "sebze",
+   "fırın",
+   "sağlıklı"
+  ]
+ },
+ {
+  "id": "firinda-patlican-domates",
+  "title": "Baked Eggplant and Tomatoes",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 55,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggplant",
+   "tomato",
+   "onion",
+   "garlic",
+   "olive oil",
+   "salt",
+   "thyme",
+   "kashar cheese"
+  ],
+  "tags_tr": [
+   "sebze",
+   "fırın"
+  ]
+ },
+ {
+  "id": "firinda-sebzeli-mucver",
+  "title": "Baked Zucchini Fritter Slice (Mücver)",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 65,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "zucchini",
+   "carrot",
+   "eggs",
+   "white cheese (feta)",
+   "flour",
+   "dill",
+   "spring onion",
+   "baking powder",
+   "olive oil",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "sebze",
+   "fırın",
+   "mücver"
+  ]
+ },
+ {
+  "id": "sebzeli-bulgur-pilavi",
+  "title": "Bulgur Pilaf with Vegetables",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 42,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "coarse bulgur",
+   "tomato",
+   "pepper",
+   "onion",
+   "tomato paste",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sebze",
+   "bulgur",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "karnabahar-yemegi",
+  "title": "Cauliflower Stew",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 36,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cauliflower",
+   "carrot",
+   "onion",
+   "tomato paste",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sebze",
+   "ekonomik",
+   "hafif"
+  ]
+ },
+ {
+  "id": "portakalli-zeytinyagli-kereviz",
+  "title": "Celeriac with Orange in Olive Oil",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 70,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "celeriac",
+   "orange",
+   "carrot",
+   "potato",
+   "onion",
+   "olive oil",
+   "lemon",
+   "sugar",
+   "salt",
+   "water",
+   "dill"
+  ],
+  "tags_tr": [
+   "zeytinyağlı",
+   "kereviz",
+   "sebze"
+  ]
+ },
+ {
+  "id": "patlican-yemegi",
+  "title": "Eggplant Stew",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 50,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggplant",
+   "tomato",
+   "pepper",
+   "onion",
+   "garlic",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sebze",
+   "zeytinyağlı",
+   "ana yemek"
+  ]
+ },
+ {
+  "id": "zeytinyagli-taze-barbunya",
+  "title": "Fresh Borlotti Beans in Olive Oil",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 89,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "fresh borlotti beans",
+   "onion",
+   "carrot",
+   "tomato",
+   "garlic",
+   "olive oil",
+   "sugar",
+   "salt",
+   "water",
+   "parsley"
+  ],
+  "tags_tr": [
+   "zeytinyağlı",
+   "sebze",
+   "bakliyat",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "zeytinyagli-bakla",
+  "title": "Fresh Broad Beans in Olive Oil",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 82,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "fresh broad beans",
+   "onion",
+   "dill",
+   "olive oil",
+   "sugar",
+   "lemon",
+   "salt",
+   "water",
+   "yogurt"
+  ],
+  "tags_tr": [
+   "zeytinyağlı",
+   "sebze",
+   "hafif",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "yogurtlu-patlican-kizartmasi",
+  "title": "Fried Eggplant with Yogurt and Tomato Sauce",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 51,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggplant",
+   "yogurt",
+   "garlic",
+   "tomato",
+   "pepper",
+   "olive oil",
+   "frying oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sebze",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "zeytinyagli-taze-fasulye",
+  "title": "Green Beans in Olive Oil",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 89,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "green beans",
+   "tomato",
+   "onion",
+   "olive oil",
+   "sugar",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sebze",
+   "zeytinyağlı",
+   "hafif"
+  ]
+ },
+ {
+  "id": "zeytinyagli-yer-elmasi",
+  "title": "Jerusalem Artichokes in Olive Oil",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 67,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "Jerusalem artichoke",
+   "carrot",
+   "onion",
+   "lemon",
+   "olive oil",
+   "sugar",
+   "salt",
+   "water",
+   "dill"
+  ],
+  "tags_tr": [
+   "zeytinyağlı",
+   "sebze",
+   "hafif"
+  ]
+ },
+ {
+  "id": "kapuska",
+  "title": "Kapuska (Cabbage Stew with Rice)",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 63,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "white cabbage",
+   "onion",
+   "rice",
+   "tomato paste",
+   "red pepper flakes",
+   "sunflower oil",
+   "salt",
+   "water",
+   "yogurt"
+  ],
+  "tags_tr": [
+   "sebze",
+   "ekonomik",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "pirasa-koftesi",
+  "title": "Leek Patties",
+  "category": "Vegetable Dishes",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 55,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "leek",
+   "eggs",
+   "white cheese (feta)",
+   "flour",
+   "breadcrumbs",
+   "black pepper",
+   "salt",
+   "water",
+   "frying oil",
+   "lemon"
+  ],
+  "tags_tr": [
+   "sebze",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "pirasa-yemegi",
+  "title": "Leeks in Olive Oil",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 66,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "leek",
+   "carrot",
+   "rice",
+   "olive oil",
+   "lemon",
+   "sugar",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sebze",
+   "zeytinyağlı",
+   "hafif"
+  ]
+ },
+ {
+  "id": "mantarli-sebze-sote",
+  "title": "Mushroom and Vegetable Sauté",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 23,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "mushrooms",
+   "pepper",
+   "zucchini",
+   "onion",
+   "olive oil",
+   "salt",
+   "black pepper",
+   "thyme"
+  ],
+  "tags_tr": [
+   "sebze",
+   "pratik",
+   "hafif"
+  ]
+ },
+ {
+  "id": "bamya-yemegi",
+  "title": "Okra Stew",
+  "category": "Vegetable Dishes",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 68,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "okra",
+   "onion",
+   "tomato",
+   "tomato paste",
+   "lemon",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sebze",
+   "geleneksel",
+   "zeytinyağlı"
+  ]
+ },
+ {
+  "id": "bezelye-yemegi",
+  "title": "Pea Stew",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 42,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "peas",
+   "potato",
+   "carrot",
+   "onion",
+   "tomato paste",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sebze",
+   "ana yemek",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "patates-oturtma",
+  "title": "Potatoes Braised in Tomato Sauce",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 50,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "potato",
+   "tomato",
+   "pepper",
+   "onion",
+   "tomato paste",
+   "olive oil",
+   "salt",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "sebze",
+   "ekonomik",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "firinda-brokoli-karnabahar",
+  "title": "Roasted Broccoli and Cauliflower",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 35,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "broccoli",
+   "cauliflower",
+   "garlic",
+   "olive oil",
+   "salt",
+   "red pepper flakes",
+   "lemon"
+  ],
+  "tags_tr": [
+   "sebze",
+   "fırın",
+   "hafif"
+  ]
+ },
+ {
+  "id": "patatesli-mantar-firin",
+  "title": "Roasted Potatoes and Mushrooms",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 55,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "potato",
+   "mushrooms",
+   "onion",
+   "garlic",
+   "olive oil",
+   "thyme",
+   "salt",
+   "black pepper",
+   "kashar cheese"
+  ],
+  "tags_tr": [
+   "sebze",
+   "fırın"
+  ]
+ },
+ {
+  "id": "firinda-sebze",
+  "title": "Roasted Vegetables",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 55,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "potato",
+   "zucchini",
+   "eggplant",
+   "pepper",
+   "tomato",
+   "olive oil",
+   "salt",
+   "thyme"
+  ],
+  "tags_tr": [
+   "sebze",
+   "fırın",
+   "hafif"
+  ]
+ },
+ {
+  "id": "firinda-kis-sebzeleri",
+  "title": "Roasted Winter Vegetables",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 50,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pumpkin",
+   "carrot",
+   "celeriac",
+   "potato",
+   "red onion",
+   "olive oil",
+   "thyme",
+   "red pepper flakes",
+   "salt"
+  ],
+  "tags_tr": [
+   "sebze",
+   "fırın",
+   "hafif"
+  ]
+ },
+ {
+  "id": "brokoli-sote",
+  "title": "Sautéed Broccoli",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 19,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "broccoli",
+   "carrot",
+   "garlic",
+   "olive oil",
+   "lemon",
+   "salt",
+   "water",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "sebze",
+   "sağlıklı",
+   "sporcu"
+  ]
+ },
+ {
+  "id": "domatesli-biber-kavurmasi",
+  "title": "Sautéed Peppers with Tomatoes",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 21,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pepper",
+   "tomato",
+   "garlic",
+   "olive oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "sebze",
+   "pratik",
+   "az malzeme"
+  ]
+ },
+ {
+  "id": "yogurtlu-kabak-sote",
+  "title": "Sautéed Zucchini with Garlic Yogurt",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 21,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "zucchini",
+   "yogurt",
+   "garlic",
+   "olive oil",
+   "salt",
+   "dill",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "sebze",
+   "hafif"
+  ]
+ },
+ {
+  "id": "ispanak-yemegi",
+  "title": "Spinach Stew with Rice",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 37,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "spinach",
+   "onion",
+   "rice",
+   "tomato paste",
+   "olive oil",
+   "salt",
+   "water",
+   "yogurt"
+  ],
+  "tags_tr": [
+   "sebze",
+   "sağlıklı",
+   "hafif"
+  ]
+ },
+ {
+  "id": "zeytinyagli-biber-dolmasi",
+  "title": "Stuffed Peppers in Olive Oil",
+  "category": "Vegetable Dishes",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 104,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "bell pepper (for stuffing)",
+   "rice",
+   "onion",
+   "tomato",
+   "pine nuts",
+   "currants",
+   "olive oil",
+   "fresh mint",
+   "parsley",
+   "allspice",
+   "sugar",
+   "salt",
+   "water",
+   "lemon"
+  ],
+  "tags_tr": [
+   "zeytinyağlı",
+   "dolma",
+   "sebze"
+  ]
+ },
+ {
+  "id": "turlu",
+  "title": "Türlü (Mixed Vegetable Stew)",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 75,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggplant",
+   "zucchini",
+   "potato",
+   "green beans",
+   "pepper",
+   "onion",
+   "tomato",
+   "tomato paste",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sebze",
+   "geleneksel",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "kabak-yemegi",
+  "title": "Zucchini Stew",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 39,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "zucchini",
+   "tomato",
+   "onion",
+   "rice",
+   "olive oil",
+   "salt",
+   "water",
+   "dill"
+  ],
+  "tags_tr": [
+   "sebze",
+   "hafif",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "zeytinyagli-kabak-havuc",
+  "title": "Zucchini and Carrots in Olive Oil",
+  "category": "Vegetable Dishes",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 53,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "zucchini",
+   "carrot",
+   "onion",
+   "olive oil",
+   "lemon",
+   "sugar",
+   "salt",
+   "water",
+   "dill"
+  ],
+  "tags_tr": [
+   "sebze",
+   "zeytinyağlı"
+  ]
+ },
+ {
+  "id": "imam-bayildi",
+  "title": "İmam Bayıldı (Stuffed Eggplant in Olive Oil)",
+  "category": "Vegetable Dishes",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 96,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggplant",
+   "onion",
+   "garlic",
+   "tomato",
+   "pepper",
+   "olive oil",
+   "parsley",
+   "sugar",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "zeytinyağlı",
+   "sebze",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "firinda-kiymali-kabak",
+  "title": "Baked Zucchini and Ground Beef Layers",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 54,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "zucchini",
+   "ground beef",
+   "onion",
+   "tomato",
+   "kashar cheese",
+   "olive oil",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "kıyma",
+   "fırın",
+   "sebze"
+  ]
+ },
+ {
+  "id": "firinda-izmir-kofte",
+  "title": "Baked İzmir Köfte",
+  "category": "Meat",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 65,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "ground beef",
+   "onion",
+   "breadcrumbs",
+   "eggs",
+   "cumin",
+   "potato",
+   "pepper",
+   "tomato",
+   "tomato paste",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "köfte",
+   "fırın",
+   "ev yemeği"
+  ]
+ },
+ {
+  "id": "et-sote",
+  "title": "Beef Sauté",
+  "category": "Meat",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 59,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "diced beef",
+   "pepper",
+   "tomato",
+   "onion",
+   "garlic",
+   "sunflower oil",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "et",
+   "ana yemek",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "etli-patlican-guvec",
+  "title": "Beef and Eggplant Güveç (Casserole)",
+  "category": "Meat",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 95,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "diced beef",
+   "eggplant",
+   "tomato",
+   "pepper",
+   "onion",
+   "garlic",
+   "tomato paste",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "et",
+   "güveç",
+   "sebze"
+  ]
+ },
+ {
+  "id": "etli-sebzeli-bulgur",
+  "title": "Bulgur Pilaf with Beef and Vegetables",
+  "category": "Meat",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 80,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "diced beef",
+   "coarse bulgur",
+   "pepper",
+   "tomato",
+   "onion",
+   "tomato paste",
+   "butter",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "et",
+   "bulgur"
+  ]
+ },
+ {
+  "id": "kiymali-karnabahar",
+  "title": "Cauliflower with Ground Beef",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 46,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cauliflower",
+   "ground beef",
+   "onion",
+   "tomato",
+   "tomato paste",
+   "sunflower oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "kıyma",
+   "sebze"
+  ]
+ },
+ {
+  "id": "etli-nohut",
+  "title": "Chickpea Stew with Beef",
+  "category": "Meat",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 90,
+  "soak": "overnight (at least 8 hours)",
+  "image": null,
+  "ingredients": [
+   "dried chickpeas",
+   "diced beef",
+   "onion",
+   "tomato paste",
+   "butter",
+   "salt",
+   "black pepper",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "et",
+   "bakliyat",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "patlican-musakka",
+  "title": "Eggplant Musakka",
+  "category": "Meat",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 77,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggplant",
+   "ground beef",
+   "onion",
+   "tomato",
+   "pepper",
+   "tomato paste",
+   "olive oil",
+   "frying oil",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "et",
+   "kıyma",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "kiymali-yumurta",
+  "title": "Eggs with Ground Beef",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 19,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "ground beef",
+   "eggs",
+   "onion",
+   "sunflower oil",
+   "salt",
+   "black pepper",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "kıyma",
+   "kahvaltı",
+   "protein"
+  ]
+ },
+ {
+  "id": "etli-taze-fasulye",
+  "title": "Green Beans with Beef",
+  "category": "Meat",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 105,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "green beans",
+   "diced beef",
+   "onion",
+   "tomato",
+   "tomato paste",
+   "butter",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "et",
+   "sebze",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "hunkar-begendi",
+  "title": "Hünkar Beğendi (Beef Stew on Smoky Eggplant Purée)",
+  "category": "Meat",
+  "difficulty": "Hard",
+  "servings": 4,
+  "total": 90,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "diced beef",
+   "onion",
+   "tomato",
+   "tomato paste",
+   "eggplant",
+   "milk",
+   "flour",
+   "butter",
+   "kashar cheese",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "et",
+   "geleneksel",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "karniyarik",
+  "title": "Karnıyarık (Eggplant Stuffed with Ground Beef)",
+  "category": "Meat",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 88,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggplant",
+   "ground beef",
+   "onion",
+   "garlic",
+   "tomato",
+   "pepper",
+   "tomato paste",
+   "olive oil",
+   "frying oil",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "et",
+   "kıyma",
+   "geleneksel",
+   "popüler"
+  ]
+ },
+ {
+  "id": "kofte",
+  "title": "Köfte (Turkish Meatballs)",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 58,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "ground beef",
+   "onion",
+   "breadcrumbs",
+   "eggs",
+   "parsley",
+   "salt",
+   "black pepper",
+   "cumin"
+  ],
+  "tags_tr": [
+   "kıyma",
+   "protein",
+   "popüler"
+  ]
+ },
+ {
+  "id": "sebzeli-kofte-tava",
+  "title": "Köfte and Vegetable Skillet",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 44,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "ground beef",
+   "onion",
+   "breadcrumbs",
+   "potato",
+   "pepper",
+   "tomato",
+   "olive oil",
+   "salt",
+   "cumin",
+   "water"
+  ],
+  "tags_tr": [
+   "köfte",
+   "ana yemek"
+  ]
+ },
+ {
+  "id": "kiymali-pirasa",
+  "title": "Leeks with Ground Beef",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 55,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "leek",
+   "ground beef",
+   "carrot",
+   "onion",
+   "rice",
+   "tomato paste",
+   "sunflower oil",
+   "lemon",
+   "salt",
+   "water",
+   "yogurt"
+  ],
+  "tags_tr": [
+   "et",
+   "kıyma",
+   "sebze"
+  ]
+ },
+ {
+  "id": "kiymali-mantar-sote",
+  "title": "Mushroom and Ground Beef Sauté",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 28,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "ground beef",
+   "mushrooms",
+   "pepper",
+   "onion",
+   "sunflower oil",
+   "salt",
+   "black pepper",
+   "thyme"
+  ],
+  "tags_tr": [
+   "kıyma",
+   "pratik"
+  ]
+ },
+ {
+  "id": "kiymali-makarna",
+  "title": "Pasta with Meat Sauce",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 26,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pasta",
+   "ground beef",
+   "onion",
+   "tomato paste",
+   "tomato",
+   "sunflower oil",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "kıyma",
+   "makarna",
+   "pratik",
+   "popüler"
+  ]
+ },
+ {
+  "id": "etli-bezelye",
+  "title": "Pea Stew with Beef",
+  "category": "Meat",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 90,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "diced beef",
+   "peas",
+   "potato",
+   "carrot",
+   "onion",
+   "tomato paste",
+   "butter",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "et",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "kiymali-bezelye",
+  "title": "Pea Stew with Ground Beef",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 48,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "peas",
+   "ground beef",
+   "carrot",
+   "potato",
+   "onion",
+   "tomato paste",
+   "sunflower oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "kıyma",
+   "sebzeli",
+   "ana yemek"
+  ]
+ },
+ {
+  "id": "kiymali-pide-ici",
+  "title": "Pide-Style Ground Beef Topping",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 22,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "ground beef",
+   "onion",
+   "tomato",
+   "pepper",
+   "parsley",
+   "tomato paste",
+   "salt",
+   "black pepper",
+   "pide bread"
+  ],
+  "tags_tr": [
+   "kıyma",
+   "pratik",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "kiymali-patates",
+  "title": "Potato and Ground Beef Stew",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 47,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "ground beef",
+   "potato",
+   "onion",
+   "tomato paste",
+   "sunflower oil",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "kıyma",
+   "ana yemek",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "kiymali-ispanak",
+  "title": "Spinach with Ground Beef",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 41,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "spinach",
+   "ground beef",
+   "onion",
+   "tomato paste",
+   "rice",
+   "olive oil",
+   "salt",
+   "water",
+   "yogurt"
+  ],
+  "tags_tr": [
+   "kıyma",
+   "sebzeli",
+   "sağlıklı"
+  ]
+ },
+ {
+  "id": "tas-kebabi",
+  "title": "Tas Kebabı (Beef and Vegetable Stew)",
+  "category": "Meat",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 106,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "diced beef",
+   "onion",
+   "potato",
+   "carrot",
+   "tomato paste",
+   "butter",
+   "thyme",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "et",
+   "doyurucu",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "kiymali-kabak-yemegi",
+  "title": "Zucchini Stew with Ground Beef",
+  "category": "Meat",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 46,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "zucchini",
+   "ground beef",
+   "onion",
+   "tomato",
+   "tomato paste",
+   "rice",
+   "olive oil",
+   "salt",
+   "water",
+   "dill",
+   "yogurt"
+  ],
+  "tags_tr": [
+   "kıyma",
+   "sebzeli",
+   "hafif"
+  ]
+ },
+ {
+  "id": "kiymali-kabak-dolmasi",
+  "title": "Zucchini Stuffed with Ground Beef and Rice",
+  "category": "Meat",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 70,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "zucchini",
+   "ground beef",
+   "rice",
+   "onion",
+   "tomato",
+   "tomato paste",
+   "parsley",
+   "olive oil",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "dolma",
+   "kıyma",
+   "ev yemeği"
+  ]
+ },
+ {
+  "id": "mantarlı-firin-tavuk",
+  "title": "Baked Chicken with Mushrooms",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 38,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "mushrooms",
+   "cooking cream",
+   "kashar cheese",
+   "butter",
+   "salt",
+   "black pepper",
+   "thyme"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "fırın"
+  ]
+ },
+ {
+  "id": "tavuk-koftesi",
+  "title": "Chicken Köfte (Meatballs)",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 46,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "ground chicken",
+   "onion",
+   "breadcrumbs",
+   "eggs",
+   "parsley",
+   "cumin",
+   "salt",
+   "black pepper",
+   "olive oil"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "köfte",
+   "protein"
+  ]
+ },
+ {
+  "id": "tavuk-sote",
+  "title": "Chicken Sauté",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 27,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "pepper",
+   "tomato",
+   "onion",
+   "garlic",
+   "sunflower oil",
+   "salt",
+   "black pepper",
+   "thyme"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "ana yemek",
+   "pratik",
+   "popüler"
+  ]
+ },
+ {
+  "id": "tavuk-sis",
+  "title": "Chicken Shish Kebab",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 82,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "yogurt",
+   "olive oil",
+   "tomato paste",
+   "garlic",
+   "thyme",
+   "red pepper flakes",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "ızgara",
+   "protein"
+  ]
+ },
+ {
+  "id": "mantarlı-tavuk-sote",
+  "title": "Chicken and Mushroom Sauté",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 26,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "mushrooms",
+   "pepper",
+   "onion",
+   "sunflower oil",
+   "salt",
+   "black pepper",
+   "thyme"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "pratik"
+  ]
+ },
+ {
+  "id": "tavuklu-pilav",
+  "title": "Chicken and Rice Pilaf",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 58,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "rice",
+   "butter",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "pilav",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "sebzeli-tavuk-guvec",
+  "title": "Chicken and Vegetable Güveç (Casserole)",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 55,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "eggplant",
+   "zucchini",
+   "pepper",
+   "tomato",
+   "onion",
+   "garlic",
+   "olive oil",
+   "tomato paste",
+   "water",
+   "salt",
+   "thyme"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "sebzeli",
+   "fırın"
+  ]
+ },
+ {
+  "id": "tavuklu-sebze-sis",
+  "title": "Chicken and Vegetable Skewers",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 59,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "pepper",
+   "zucchini",
+   "red onion",
+   "olive oil",
+   "yogurt",
+   "thyme",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "ızgara",
+   "protein"
+  ]
+ },
+ {
+  "id": "tavuklu-sebzeli-wrap",
+  "title": "Chicken and Vegetable Wrap",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 19,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "lavash",
+   "chicken breast",
+   "lettuce",
+   "tomato",
+   "cucumber",
+   "yogurt",
+   "garlic",
+   "olive oil",
+   "salt",
+   "thyme"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "pratik",
+   "öğle yemeği"
+  ]
+ },
+ {
+  "id": "kori-soslu-tavuk",
+  "title": "Chicken in Curry Sauce",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 25,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "onion",
+   "cooking cream",
+   "milk",
+   "curry powder",
+   "sunflower oil",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "pratik",
+   "soslu"
+  ]
+ },
+ {
+  "id": "domates-soslu-tavuk",
+  "title": "Chicken in Tomato Sauce",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 32,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "tomato",
+   "onion",
+   "garlic",
+   "tomato paste",
+   "olive oil",
+   "salt",
+   "black pepper",
+   "basil"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "pratik"
+  ]
+ },
+ {
+  "id": "yogurt-soslu-tavuk",
+  "title": "Chicken with Yogurt Sauce",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 48,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "yogurt",
+   "garlic",
+   "olive oil",
+   "red pepper flakes",
+   "salt",
+   "lemon",
+   "dried mint"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "protein",
+   "hafif"
+  ]
+ },
+ {
+  "id": "tavuklu-makarna",
+  "title": "Creamy Chicken Pasta",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 18,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "pasta",
+   "cooking cream",
+   "garlic",
+   "sunflower oil",
+   "salt",
+   "black pepper",
+   "water",
+   "kashar cheese"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "makarna",
+   "pratik"
+  ]
+ },
+ {
+  "id": "balli-hardalli-tavuk",
+  "title": "Honey Mustard Chicken",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 33,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "mustard",
+   "honey",
+   "olive oil",
+   "lemon",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "soslu",
+   "pratik"
+  ]
+ },
+ {
+  "id": "firinda-tavuk-tandir",
+  "title": "Oven-Baked Chicken Tandır",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 100,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken thighs",
+   "onion",
+   "garlic",
+   "tomato paste",
+   "olive oil",
+   "thyme",
+   "red pepper flakes",
+   "black pepper",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "fırın",
+   "protein"
+  ]
+ },
+ {
+  "id": "firinda-tavuk-patates",
+  "title": "Roast Chicken with Potatoes",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 60,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken drumsticks",
+   "potato",
+   "onion",
+   "garlic",
+   "tomato paste",
+   "olive oil",
+   "water",
+   "salt",
+   "thyme",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "fırın",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "firinda-limonlu-tavuk",
+  "title": "Roast Lemon Chicken",
+  "category": "Chicken",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 90,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken thighs",
+   "lemon",
+   "garlic",
+   "potato",
+   "olive oil",
+   "thyme",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "fırın",
+   "protein"
+  ]
+ },
+ {
+  "id": "tavuklu-ispanak-sarma",
+  "title": "Spinach-Stuffed Chicken Rolls",
+  "category": "Chicken",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 53,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "spinach",
+   "kashar cheese",
+   "garlic",
+   "olive oil",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "tavuk",
+   "ıspanak",
+   "fırın"
+  ]
+ },
+ {
+  "id": "firinda-patatesli-hamsi",
+  "title": "Baked Anchovies with Potatoes",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 55,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "anchovies",
+   "potato",
+   "onion",
+   "tomato",
+   "olive oil",
+   "lemon",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "balık",
+   "fırın",
+   "tek tepsi",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "firinda-palamut",
+  "title": "Baked Bonito",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 35,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "bonito",
+   "red onion",
+   "tomato",
+   "pepper",
+   "lemon",
+   "olive oil",
+   "bay leaf",
+   "salt",
+   "black pepper",
+   "rocket (arugula)"
+  ],
+  "tags_tr": [
+   "balık",
+   "fırın",
+   "protein"
+  ]
+ },
+ {
+  "id": "firinda-balik-koftesi",
+  "title": "Baked Fish Cakes",
+  "category": "Fish & Seafood",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 50,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "white fish fillet",
+   "potato",
+   "eggs",
+   "onion",
+   "parsley",
+   "breadcrumbs",
+   "olive oil",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "balık",
+   "fırın",
+   "çocuk dostu"
+  ]
+ },
+ {
+  "id": "yogurt-soslu-firin-balik",
+  "title": "Baked Fish with Yogurt Sauce",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 26,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "white fish fillet",
+   "yogurt",
+   "garlic",
+   "lemon",
+   "olive oil",
+   "thyme",
+   "salt",
+   "dill"
+  ],
+  "tags_tr": [
+   "balık",
+   "fırın",
+   "yoğurtlu",
+   "hafif"
+  ]
+ },
+ {
+  "id": "limonlu-firin-somon",
+  "title": "Baked Lemon Salmon",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 20,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "salmon fillet",
+   "lemon",
+   "olive oil",
+   "garlic",
+   "dill",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "balık",
+   "fırın",
+   "protein"
+  ]
+ },
+ {
+  "id": "firinda-sardalya",
+  "title": "Baked Sardines",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 28,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "sardines",
+   "tomato",
+   "garlic",
+   "lemon",
+   "olive oil",
+   "thyme",
+   "parsley",
+   "salt"
+  ],
+  "tags_tr": [
+   "balık",
+   "fırın",
+   "protein"
+  ]
+ },
+ {
+  "id": "firinda-kekikli-levrek",
+  "title": "Baked Sea Bass with Thyme",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 32,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "sea bass",
+   "lemon",
+   "garlic",
+   "olive oil",
+   "thyme",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "balık",
+   "fırın",
+   "hafif",
+   "glutensiz"
+  ]
+ },
+ {
+  "id": "kagitta-sebzeli-balik",
+  "title": "Fish and Vegetables Baked in Paper",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 32,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "white fish fillet",
+   "zucchini",
+   "carrot",
+   "pepper",
+   "lemon",
+   "olive oil",
+   "thyme",
+   "salt"
+  ],
+  "tags_tr": [
+   "balık",
+   "fırın",
+   "hafif",
+   "sebzeli"
+  ]
+ },
+ {
+  "id": "sarimsakli-limonlu-karides",
+  "title": "Garlic Lemon Shrimp",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 14,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "shrimp",
+   "garlic",
+   "lemon",
+   "butter",
+   "olive oil",
+   "red pepper flakes",
+   "salt",
+   "parsley"
+  ],
+  "tags_tr": [
+   "deniz ürünü",
+   "pratik",
+   "yüksek protein",
+   "tava"
+  ]
+ },
+ {
+  "id": "hamsi-tava",
+  "title": "Hamsi Tava (Pan-Fried Anchovies)",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 27,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "anchovies",
+   "cornmeal",
+   "salt",
+   "frying oil",
+   "lemon",
+   "red onion"
+  ],
+  "tags_tr": [
+   "balık",
+   "tava",
+   "Karadeniz",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "hamsili-pilav",
+  "title": "Hamsili Pilav (Anchovy-Wrapped Rice)",
+  "category": "Fish & Seafood",
+  "difficulty": "Hard",
+  "servings": 4,
+  "total": 90,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "anchovies",
+   "rice",
+   "onion",
+   "butter",
+   "pine nuts",
+   "currants",
+   "allspice",
+   "black pepper",
+   "salt",
+   "water",
+   "dill"
+  ],
+  "tags_tr": [
+   "balık",
+   "geleneksel",
+   "pilav"
+  ]
+ },
+ {
+  "id": "istavrit-tava",
+  "title": "Pan-Fried Horse Mackerel",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 33,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "horse mackerel",
+   "cornmeal",
+   "salt",
+   "frying oil",
+   "lemon",
+   "red onion",
+   "parsley"
+  ],
+  "tags_tr": [
+   "balık",
+   "protein",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "sebzeli-somon-tava",
+  "title": "Pan-Fried Salmon with Vegetables",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 22,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "salmon",
+   "zucchini",
+   "pepper",
+   "mushrooms",
+   "olive oil",
+   "salt",
+   "black pepper",
+   "lemon"
+  ],
+  "tags_tr": [
+   "balık",
+   "sebze",
+   "pratik"
+  ]
+ },
+ {
+  "id": "mezgit-tava",
+  "title": "Pan-Fried Whiting",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 31,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "whiting",
+   "flour",
+   "salt",
+   "frying oil",
+   "lemon",
+   "rocket (arugula)"
+  ],
+  "tags_tr": [
+   "balık",
+   "protein",
+   "pratik"
+  ]
+ },
+ {
+  "id": "tavada-susamli-somon",
+  "title": "Pan-Seared Sesame Salmon",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 12,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "salmon",
+   "sesame seeds",
+   "olive oil",
+   "lemon",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "balık",
+   "yüksek protein",
+   "pratik",
+   "tava"
+  ]
+ },
+ {
+  "id": "somonlu-bulgur-kasesi",
+  "title": "Salmon and Bulgur Bowl",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 38,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "salmon",
+   "coarse bulgur",
+   "broccoli",
+   "yogurt",
+   "lemon",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "balık",
+   "kase",
+   "yüksek protein",
+   "dengeli"
+  ]
+ },
+ {
+  "id": "domatesli-karides-guvec",
+  "title": "Shrimp Güveç with Tomatoes",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 30,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "shrimp",
+   "tomato",
+   "pepper",
+   "garlic",
+   "olive oil",
+   "kashar cheese",
+   "salt",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "deniz ürünü",
+   "güveç",
+   "fırın"
+  ]
+ },
+ {
+  "id": "karidesli-makarna",
+  "title": "Shrimp Pasta",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 20,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pasta",
+   "shrimp",
+   "tomato",
+   "garlic",
+   "olive oil",
+   "red pepper flakes",
+   "salt",
+   "parsley",
+   "water"
+  ],
+  "tags_tr": [
+   "balık",
+   "makarna",
+   "pratik"
+  ]
+ },
+ {
+  "id": "sebzeli-cipura-bugulama",
+  "title": "Steamed Sea Bream with Vegetables",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 37,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "sea bream",
+   "tomato",
+   "onion",
+   "pepper",
+   "potato",
+   "lemon",
+   "olive oil",
+   "salt",
+   "bay leaf",
+   "water"
+  ],
+  "tags_tr": [
+   "balık",
+   "buğulama",
+   "hafif",
+   "tek tencere"
+  ]
+ },
+ {
+  "id": "ton-balikli-nohut-salatasi",
+  "title": "Tuna and Chickpea Salad",
+  "category": "Fish & Seafood",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 10,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "canned tuna",
+   "cooked chickpeas",
+   "tomato",
+   "cucumber",
+   "red onion",
+   "parsley",
+   "lemon",
+   "olive oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "balık",
+   "salata",
+   "yüksek protein",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "kuru-borulce-salatasi",
+  "title": "Black-Eyed Pea Salad",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 22,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cooked black-eyed peas",
+   "red onion",
+   "tomato",
+   "parsley",
+   "lemon",
+   "olive oil",
+   "sumac",
+   "salt"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "salata",
+   "hafif",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "kuru-borulce-yemegi",
+  "title": "Black-Eyed Pea Stew",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 74,
+  "soak": "overnight (at least 8 hours)",
+  "image": null,
+  "ingredients": [
+   "dried black-eyed peas",
+   "onion",
+   "pepper",
+   "tomato paste",
+   "tomato",
+   "sunflower oil",
+   "red pepper flakes",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "ekonomik",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "barbunya-pilaki",
+  "title": "Borlotti Bean Pilaki",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 65,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cooked borlotti beans",
+   "onion",
+   "carrot",
+   "potato",
+   "garlic",
+   "tomato",
+   "olive oil",
+   "sugar",
+   "salt",
+   "water",
+   "parsley"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "zeytinyağlı",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "barbunya-salatasi",
+  "title": "Borlotti Bean Salad",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 22,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cooked borlotti beans",
+   "tomato",
+   "red onion",
+   "parsley",
+   "lemon",
+   "olive oil",
+   "salt",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "salata",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "barbunyali-bulgur-kasesi",
+  "title": "Bulgur Bowl with Borlotti Beans",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 35,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "coarse bulgur",
+   "cooked borlotti beans",
+   "pepper",
+   "parsley",
+   "lemon",
+   "olive oil",
+   "salt",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "kase",
+   "protein"
+  ]
+ },
+ {
+  "id": "nohutlu-bulgur-pilavi",
+  "title": "Bulgur Pilaf with Chickpeas",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 37,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "coarse bulgur",
+   "cooked chickpeas",
+   "onion",
+   "tomato paste",
+   "butter",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "bulgur",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "mercimekli-bulgur-pilavi",
+  "title": "Bulgur Pilaf with Green Lentils",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 54,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "green lentils",
+   "coarse bulgur",
+   "onion",
+   "butter",
+   "tomato paste",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "pilav"
+  ]
+ },
+ {
+  "id": "nohut-yemegi",
+  "title": "Chickpea Stew",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 35,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cooked chickpeas",
+   "onion",
+   "tomato paste",
+   "sunflower oil",
+   "salt",
+   "black pepper",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "ekonomik",
+   "doyurucu",
+   "popüler"
+  ]
+ },
+ {
+  "id": "nohutlu-tavuklu-salata",
+  "title": "Chickpea and Chicken Salad",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 40,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cooked chickpeas",
+   "chicken breast",
+   "lettuce",
+   "tomato",
+   "cucumber",
+   "lemon",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "protein",
+   "sporcu",
+   "salata"
+  ]
+ },
+ {
+  "id": "fava",
+  "title": "Fava (Broad Bean Purée)",
+  "category": "Pulses",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 239,
+  "soak": "overnight (at least 8 hours)",
+  "image": null,
+  "ingredients": [
+   "dried fava beans",
+   "onion",
+   "olive oil",
+   "sugar",
+   "lemon",
+   "dill",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "meze",
+   "bakliyat",
+   "zeytinyağlı",
+   "soğuk"
+  ]
+ },
+ {
+  "id": "zeytinyagli-taze-borulce",
+  "title": "Fresh Black-Eyed Pea Pods in Olive Oil",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 37,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "fresh black-eyed peas",
+   "garlic",
+   "lemon",
+   "olive oil",
+   "salt",
+   "water",
+   "dill"
+  ],
+  "tags_tr": [
+   "zeytinyağlı",
+   "bakliyat",
+   "hafif",
+   "soğuk"
+  ]
+ },
+ {
+  "id": "yesil-mercimek-salatasi",
+  "title": "Green Lentil Salad",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 45,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "green lentils",
+   "tomato",
+   "cucumber",
+   "spring onion",
+   "parsley",
+   "lemon",
+   "pomegranate molasses",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "salata"
+  ]
+ },
+ {
+  "id": "yesil-mercimek-yemegi",
+  "title": "Green Lentil Stew",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 61,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "green lentils",
+   "onion",
+   "tomato paste",
+   "carrot",
+   "rice",
+   "sunflower oil",
+   "salt",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "protein",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "humus",
+  "title": "Hummus",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 20,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cooked chickpeas",
+   "tahini",
+   "garlic",
+   "lemon",
+   "cumin",
+   "olive oil",
+   "salt",
+   "paprika",
+   "water"
+  ],
+  "tags_tr": [
+   "meze",
+   "bakliyat",
+   "pişirmesiz",
+   "pratik"
+  ]
+ },
+ {
+  "id": "kuru-fasulye",
+  "title": "Kuru Fasulye (White Bean Stew)",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 90,
+  "soak": "overnight (at least 8 hours)",
+  "image": null,
+  "ingredients": [
+   "dried white beans",
+   "onion",
+   "tomato paste",
+   "sunflower oil",
+   "salt",
+   "black pepper",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "geleneksel",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "eksili-nohutlu-pazi",
+  "title": "Lemony Chard with Chickpeas",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 42,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chard",
+   "cooked chickpeas",
+   "onion",
+   "rice",
+   "tomato paste",
+   "lemon",
+   "olive oil",
+   "salt",
+   "water",
+   "yogurt"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "sebze",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "mercimek-koftesi",
+  "title": "Mercimek Köftesi (Red Lentil and Bulgur Patties)",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 59,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "red lentils",
+   "fine bulgur",
+   "onion",
+   "tomato paste",
+   "hot pepper paste",
+   "olive oil",
+   "spring onion",
+   "parsley",
+   "lemon",
+   "cumin",
+   "red pepper flakes",
+   "salt",
+   "water",
+   "lettuce"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "soğuk",
+   "ekonomik",
+   "meze"
+  ]
+ },
+ {
+  "id": "fasulye-piyazi",
+  "title": "Piyaz (White Bean Salad with Tahini)",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 20,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cooked white beans",
+   "red onion",
+   "parsley",
+   "eggs",
+   "tahini",
+   "lemon",
+   "vinegar",
+   "olive oil",
+   "sumac",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "salata",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "kirmizi-mercimek-yemegi",
+  "title": "Red Lentil Stew",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 31,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "red lentils",
+   "onion",
+   "carrot",
+   "tomato paste",
+   "olive oil",
+   "salt",
+   "cumin",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "ekonomik",
+   "protein"
+  ]
+ },
+ {
+  "id": "nohutlu-ispanak-yemegi",
+  "title": "Spinach Stew with Chickpeas",
+  "category": "Pulses",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 37,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "spinach",
+   "cooked chickpeas",
+   "onion",
+   "tomato paste",
+   "coarse bulgur",
+   "olive oil",
+   "salt",
+   "water",
+   "yogurt"
+  ],
+  "tags_tr": [
+   "bakliyat",
+   "ıspanak",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "firin-makarna-ispanakli",
+  "title": "Baked Spinach Pasta",
+  "category": "Pasta & Rice",
+  "difficulty": "Medium",
+  "servings": 4,
+  "total": 54,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pasta",
+   "spinach",
+   "milk",
+   "flour",
+   "butter",
+   "kashar cheese",
+   "eggs",
+   "salt",
+   "nutmeg",
+   "water"
+  ],
+  "tags_tr": [
+   "makarna",
+   "fırın",
+   "ıspanak"
+  ]
+ },
+ {
+  "id": "tavuklu-bulgur-pilavi",
+  "title": "Bulgur Pilaf with Chicken",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 45,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "coarse bulgur",
+   "chicken breast",
+   "onion",
+   "pepper",
+   "tomato paste",
+   "butter",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "pilav",
+   "tavuk",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "domatesli-bulgur-pilavi-taze",
+  "title": "Bulgur Pilaf with Fresh Tomatoes",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 40,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "coarse bulgur",
+   "tomato",
+   "onion",
+   "pepper",
+   "butter",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "bulgur",
+   "pilav",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "mantarlı-makarna",
+  "title": "Creamy Mushroom Pasta",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 18,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pasta",
+   "mushrooms",
+   "garlic",
+   "cooking cream",
+   "butter",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "makarna",
+   "pratik"
+  ]
+ },
+ {
+  "id": "eristeli-yesil-mercimek",
+  "title": "Green Lentils with Erişte Noodles",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 37,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "egg noodles",
+   "green lentils",
+   "onion",
+   "tomato paste",
+   "butter",
+   "salt",
+   "dried mint",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "makarna",
+   "bakliyat",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "tembel-manti",
+  "title": "Lazy Mantı (Pasta with Ground Beef and Garlic Yogurt)",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 25,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "fusilli",
+   "ground beef",
+   "onion",
+   "olive oil",
+   "yogurt",
+   "garlic",
+   "butter",
+   "tomato paste",
+   "red pepper flakes",
+   "dried mint",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "makarna",
+   "pratik",
+   "kıyma",
+   "popüler"
+  ]
+ },
+ {
+  "id": "mantarli-pilav",
+  "title": "Mushroom Rice Pilaf",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 62,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "rice",
+   "mushrooms",
+   "onion",
+   "butter",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "pilav",
+   "sebzeli",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "tavuklu-arpa-sehriye",
+  "title": "Orzo Pilaf with Chicken",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 41,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "orzo",
+   "chicken breast",
+   "pepper",
+   "butter",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "pilav",
+   "tavuk"
+  ]
+ },
+ {
+  "id": "sebzeli-arpa-sehriye-pilavi",
+  "title": "Orzo Pilaf with Vegetables",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 36,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "orzo",
+   "carrot",
+   "peas",
+   "pepper",
+   "butter",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "pilav",
+   "sebze",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "yogurtlu-makarna",
+  "title": "Pasta with Garlic Yogurt",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 15,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pasta",
+   "yogurt",
+   "garlic",
+   "butter",
+   "dried mint",
+   "red pepper flakes",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "makarna",
+   "pratik",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "ispanakli-yogurtlu-makarna",
+  "title": "Pasta with Spinach and Yogurt",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 17,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pasta",
+   "spinach",
+   "yogurt",
+   "garlic",
+   "olive oil",
+   "red pepper flakes",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "makarna",
+   "pratik"
+  ]
+ },
+ {
+  "id": "salcali-makarna",
+  "title": "Pasta with Tomato Paste and Mint",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 15,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pasta",
+   "tomato paste",
+   "butter",
+   "olive oil",
+   "salt",
+   "dried mint",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "makarna",
+   "az malzeme",
+   "hızlı",
+   "popüler"
+  ]
+ },
+ {
+  "id": "domatesli-makarna",
+  "title": "Pasta with Tomato Sauce",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 20,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pasta",
+   "tomato",
+   "garlic",
+   "olive oil",
+   "salt",
+   "black pepper",
+   "basil",
+   "water"
+  ],
+  "tags_tr": [
+   "makarna",
+   "pratik",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "nohutlu-pirinc-pilavi",
+  "title": "Rice Pilaf with Chickpeas",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 54,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "rice",
+   "cooked chickpeas",
+   "butter",
+   "salt",
+   "black pepper",
+   "water"
+  ],
+  "tags_tr": [
+   "pilav",
+   "bakliyat"
+  ]
+ },
+ {
+  "id": "sebzeli-pirinc-pilavi",
+  "title": "Rice Pilaf with Vegetables",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 56,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "rice",
+   "carrot",
+   "peas",
+   "sweetcorn",
+   "butter",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "pilav",
+   "sebze"
+  ]
+ },
+ {
+  "id": "domatesli-arpa-sehriye",
+  "title": "Tomato Orzo Pilaf",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 37,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "orzo",
+   "tomato",
+   "onion",
+   "tomato paste",
+   "butter",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "pilav",
+   "pratik"
+  ]
+ },
+ {
+  "id": "ton-balikli-makarna",
+  "title": "Tuna Pasta Salad",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 27,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pasta",
+   "canned tuna",
+   "sweetcorn",
+   "olive oil",
+   "lemon",
+   "salt",
+   "black pepper",
+   "parsley",
+   "water"
+  ],
+  "tags_tr": [
+   "makarna",
+   "protein",
+   "hızlı"
+  ]
+ },
+ {
+  "id": "pirinc-pilavi",
+  "title": "Turkish Rice Pilaf",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 55,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "rice",
+   "vermicelli",
+   "butter",
+   "sunflower oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "pilav",
+   "geleneksel",
+   "yan yemek"
+  ]
+ },
+ {
+  "id": "sebzeli-makarna",
+  "title": "Vegetable Pasta",
+  "category": "Pasta & Rice",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 22,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pasta",
+   "zucchini",
+   "carrot",
+   "pepper",
+   "tomato",
+   "olive oil",
+   "salt",
+   "thyme",
+   "water"
+  ],
+  "tags_tr": [
+   "makarna",
+   "sebzeli",
+   "pratik"
+  ]
+ },
+ {
+  "id": "pancar-salatasi",
+  "title": "Beetroot Salad with Yogurt",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 70,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "beetroot",
+   "yogurt",
+   "garlic",
+   "walnuts",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "salata",
+   "meze"
+  ]
+ },
+ {
+  "id": "yogurtlu-brokoli-salatasi",
+  "title": "Broccoli Salad with Garlic Yogurt",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 13,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "broccoli",
+   "yogurt",
+   "garlic",
+   "olive oil",
+   "walnuts",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "salata",
+   "hafif"
+  ]
+ },
+ {
+  "id": "cacik",
+  "title": "Cacık (Cucumber and Yogurt Dip)",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 25,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "yogurt",
+   "cucumber",
+   "garlic",
+   "dried mint",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "salata",
+   "meze",
+   "pişirmesiz",
+   "pratik"
+  ]
+ },
+ {
+  "id": "havuc-tarator",
+  "title": "Carrot Tarator (Carrots with Garlic Yogurt)",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 26,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "carrot",
+   "yogurt",
+   "garlic",
+   "walnuts",
+   "olive oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "meze",
+   "salata",
+   "pratik"
+  ]
+ },
+ {
+  "id": "yogurtlu-karnabahar",
+  "title": "Cauliflower with Garlic Yogurt",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 26,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cauliflower",
+   "yogurt",
+   "garlic",
+   "olive oil",
+   "red pepper flakes",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "salata",
+   "meze"
+  ]
+ },
+ {
+  "id": "gavurdagi-salatasi",
+  "title": "Gavurdağı Salad (Tomato and Walnut Salad)",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 20,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "tomato",
+   "red onion",
+   "pepper",
+   "walnuts",
+   "parsley",
+   "pomegranate molasses",
+   "olive oil",
+   "sumac",
+   "red pepper flakes",
+   "salt"
+  ],
+  "tags_tr": [
+   "salata",
+   "pişirmesiz",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "haydari",
+  "title": "Haydari (Herby Yogurt and Cheese Dip)",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 25,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "strained yogurt",
+   "white cheese (feta)",
+   "garlic",
+   "dill",
+   "fresh mint",
+   "olive oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "meze",
+   "pişirmesiz",
+   "pratik"
+  ]
+ },
+ {
+  "id": "kisir",
+  "title": "Kısır (Bulgur Salad)",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 30,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "fine bulgur",
+   "water",
+   "tomato paste",
+   "hot pepper paste",
+   "spring onion",
+   "parsley",
+   "fresh mint",
+   "pomegranate molasses",
+   "lemon",
+   "olive oil",
+   "cumin",
+   "salt",
+   "lettuce"
+  ],
+  "tags_tr": [
+   "salata",
+   "pişirmesiz",
+   "ekonomik",
+   "popüler"
+  ]
+ },
+ {
+  "id": "yogurtlu-semizotu",
+  "title": "Purslane with Garlic Yogurt",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 12,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "purslane",
+   "yogurt",
+   "garlic",
+   "olive oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "salata",
+   "hafif",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "patates-salatasi",
+  "title": "Turkish Potato Salad",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 60,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "potato",
+   "spring onion",
+   "parsley",
+   "dill",
+   "lemon",
+   "olive oil",
+   "red pepper flakes",
+   "cumin",
+   "salt"
+  ],
+  "tags_tr": [
+   "salata",
+   "ekonomik",
+   "pratik"
+  ]
+ },
+ {
+  "id": "narli-kis-salatasi",
+  "title": "Winter Salad with Pomegranate",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 15,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "lettuce",
+   "rocket (arugula)",
+   "red cabbage",
+   "carrot",
+   "pomegranate",
+   "walnuts",
+   "pomegranate molasses",
+   "olive oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "salata",
+   "pişirmesiz",
+   "hafif"
+  ]
+ },
+ {
+  "id": "saksuka",
+  "title": "Şakşuka (Fried Vegetables in Tomato Sauce)",
+  "category": "Salads & Meze",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 64,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggplant",
+   "zucchini",
+   "pepper",
+   "tomato",
+   "garlic",
+   "tomato paste",
+   "frying oil",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "meze",
+   "salata",
+   "sebze",
+   "soğuk"
+  ]
+ },
+ {
+  "id": "firinda-patatesli-yumurta",
+  "title": "Baked Potatoes with Eggs",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 41,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "potato",
+   "eggs",
+   "onion",
+   "kashar cheese",
+   "olive oil",
+   "salt",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "pratik",
+   "kahvaltı",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "ekmek-pizzasi",
+  "title": "Bread Pizza",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 18,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "bread",
+   "tomato",
+   "tomato paste",
+   "kashar cheese",
+   "pepper",
+   "olives",
+   "olive oil",
+   "thyme"
+  ],
+  "tags_tr": [
+   "pratik",
+   "çocuk dostu",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "soganli-yumurta",
+  "title": "Eggs with Caramelised Onions",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 18,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "onion",
+   "sunflower oil",
+   "salt",
+   "black pepper",
+   "red pepper flakes"
+  ],
+  "tags_tr": [
+   "ekonomik",
+   "kahvaltı",
+   "az malzeme"
+  ]
+ },
+ {
+  "id": "peynirli-mercimek-koftesi-durum",
+  "title": "Lentil Köfte Wraps",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 50,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "red lentils",
+   "fine bulgur",
+   "onion",
+   "tomato paste",
+   "olive oil",
+   "cumin",
+   "salt",
+   "water",
+   "lavash",
+   "lettuce",
+   "tomato",
+   "lemon",
+   "parsley"
+  ],
+  "tags_tr": [
+   "pratik",
+   "bakliyat",
+   "dürüm"
+  ]
+ },
+ {
+  "id": "tavada-sebzeli-lavas-pizza",
+  "title": "Pan-Cooked Vegetable Lavash Pizza",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 24,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "lavash",
+   "kashar cheese",
+   "pepper",
+   "mushrooms",
+   "sweetcorn",
+   "tomato paste",
+   "tomato",
+   "thyme",
+   "olive oil"
+  ],
+  "tags_tr": [
+   "pratik",
+   "pizza",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "patatesli-lavas-tava",
+  "title": "Pan-Fried Lavash with Potato and Cheese",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 35,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "lavash",
+   "potato",
+   "kashar cheese",
+   "red pepper flakes",
+   "butter",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "pratik",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "patates-kavurmasi",
+  "title": "Pan-Fried Potatoes with Onion",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 29,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "potato",
+   "onion",
+   "sunflower oil",
+   "salt",
+   "red pepper flakes",
+   "black pepper",
+   "parsley"
+  ],
+  "tags_tr": [
+   "ekonomik",
+   "pratik",
+   "az malzeme"
+  ]
+ },
+ {
+  "id": "konserve-misirli-makarna-salatasi",
+  "title": "Pasta Salad with Sweetcorn",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 40,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "fusilli",
+   "sweetcorn",
+   "pickles",
+   "yogurt",
+   "mayonnaise",
+   "carrot",
+   "dill",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "pratik",
+   "salata",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "peynirli-makarna",
+  "title": "Pasta with White Cheese",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 15,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pasta",
+   "white cheese (feta)",
+   "butter",
+   "parsley",
+   "red pepper flakes",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "makarna",
+   "ekonomik",
+   "hızlı"
+  ]
+ },
+ {
+  "id": "yogurtlu-patates",
+  "title": "Potatoes with Garlic Yogurt",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 34,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "potato",
+   "yogurt",
+   "garlic",
+   "butter",
+   "dried mint",
+   "red pepper flakes",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "ekonomik",
+   "pratik",
+   "soğuk"
+  ]
+ },
+ {
+  "id": "domatesli-bulgur-lapasi",
+  "title": "Soft Tomato Bulgur",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 32,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "coarse bulgur",
+   "tomato",
+   "tomato paste",
+   "onion",
+   "butter",
+   "salt",
+   "red pepper flakes",
+   "water"
+  ],
+  "tags_tr": [
+   "ekonomik",
+   "bulgur",
+   "doyurucu"
+  ]
+ },
+ {
+  "id": "ton-balikli-lavas",
+  "title": "Tuna Lavash Wrap",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 10,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "lavash",
+   "canned tuna",
+   "lettuce",
+   "tomato",
+   "sweetcorn",
+   "yogurt",
+   "lemon",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "pratik",
+   "protein",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "ton-balikli-salata",
+  "title": "Tuna Salad",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 10,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "canned tuna",
+   "lettuce",
+   "tomato",
+   "cucumber",
+   "sweetcorn",
+   "lemon",
+   "olive oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "pratik",
+   "protein",
+   "hafif",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "sebzeli-yumurta-durumu",
+  "title": "Vegetable and Egg Wrap",
+  "category": "Quick & Budget",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 16,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "lavash",
+   "eggs",
+   "pepper",
+   "tomato",
+   "spring onion",
+   "sunflower oil",
+   "salt"
+  ],
+  "tags_tr": [
+   "pratik",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "elmali-yulaf-kup",
+  "title": "Apple and Oat Yogurt Cups",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 16,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "apple",
+   "rolled oats",
+   "yogurt",
+   "cinnamon",
+   "walnuts",
+   "honey",
+   "butter"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "meyveli",
+   "kase",
+   "pratik"
+  ]
+ },
+ {
+  "id": "firinda-muzlu-yulaf",
+  "title": "Baked Banana Oats",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 48,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "banana",
+   "rolled oats",
+   "milk",
+   "eggs",
+   "honey",
+   "cinnamon",
+   "baking powder",
+   "walnuts",
+   "butter"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "yulaf",
+   "kahvaltı"
+  ]
+ },
+ {
+  "id": "firinda-tarcinli-elma",
+  "title": "Baked Cinnamon Apples",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 45,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "apple",
+   "walnuts",
+   "honey",
+   "rolled oats",
+   "cinnamon",
+   "butter",
+   "water"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "meyve",
+   "fırın"
+  ]
+ },
+ {
+  "id": "firinda-tarcinli-muz",
+  "title": "Baked Cinnamon Bananas",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 17,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "banana",
+   "cinnamon",
+   "honey",
+   "walnuts",
+   "yogurt"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "fırın",
+   "meyveli",
+   "pratik"
+  ]
+ },
+ {
+  "id": "muzlu-yulaf-toplari",
+  "title": "Banana Oat Balls",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 52,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "banana",
+   "rolled oats",
+   "cocoa powder",
+   "peanut butter",
+   "desiccated coconut"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "pişirmesiz",
+   "atıştırmalık"
+  ]
+ },
+ {
+  "id": "cevizli-kabak-tatlisi",
+  "title": "Candied Pumpkin with Walnuts",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 225,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "pumpkin",
+   "sugar",
+   "walnuts",
+   "cinnamon"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "geleneksel",
+   "meyveli"
+  ]
+ },
+ {
+  "id": "chia-meyveli-puding",
+  "title": "Chia Pudding with Fruit",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 250,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chia seeds",
+   "milk",
+   "yogurt",
+   "honey",
+   "strawberries",
+   "banana"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "soğuk",
+   "pratik",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "hurmali-kakaolu-enerji-toplari",
+  "title": "Date and Cocoa Energy Balls",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 55,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "dates",
+   "rolled oats",
+   "walnuts",
+   "cocoa powder",
+   "desiccated coconut",
+   "water"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "atıştırmalık",
+   "şekersiz",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "yogurtlu-meyve-barlari",
+  "title": "Frozen Yogurt Fruit Bars",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 200,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "strained yogurt",
+   "banana",
+   "strawberries",
+   "honey",
+   "walnuts"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "soğuk",
+   "meyveli",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "portakalli-sutlac",
+  "title": "Orange Rice Pudding",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 193,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "milk",
+   "rice",
+   "water",
+   "sugar",
+   "rice flour",
+   "orange",
+   "cinnamon"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "sütlü",
+   "geleneksel"
+  ]
+ },
+ {
+  "id": "ayva-tatlisi",
+  "title": "Poached Quince Dessert",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 105,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "quince",
+   "sugar",
+   "water",
+   "cloves",
+   "lemon",
+   "clotted cream (kaymak)",
+   "walnuts"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "geleneksel",
+   "meyveli"
+  ]
+ },
+ {
+  "id": "sutlu-irmik-tatlisi",
+  "title": "Semolina Milk Pudding",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 96,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "milk",
+   "semolina",
+   "sugar",
+   "butter",
+   "vanilla",
+   "cinnamon"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "sütlü",
+   "ekonomik"
+  ]
+ },
+ {
+  "id": "tahinli-pekmezli-yulaf-toplari",
+  "title": "Tahini and Grape Molasses Oat Balls",
+  "category": "Desserts & Snacks",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 55,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "rolled oats",
+   "tahini",
+   "grape molasses",
+   "walnuts",
+   "cinnamon",
+   "sesame seeds"
+  ],
+  "tags_tr": [
+   "tatlı",
+   "atıştırmalık"
+  ]
+ },
+ {
+  "id": "tavuklu-sporcu-kasesi",
+  "title": "Chicken Fitness Bowl",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 40,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "coarse bulgur",
+   "broccoli",
+   "yogurt",
+   "olive oil",
+   "thyme",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "protein",
+   "dengeli"
+  ]
+ },
+ {
+  "id": "yogurtlu-tavuk-salatasi",
+  "title": "Chicken Salad with Yogurt",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 40,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "yogurt",
+   "lettuce",
+   "cucumber",
+   "garlic",
+   "dill",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "protein",
+   "hafif"
+  ]
+ },
+ {
+  "id": "tavuklu-karabugday-kasesi",
+  "title": "Chicken and Buckwheat Bowl",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 28,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "buckwheat",
+   "broccoli",
+   "yogurt",
+   "lemon",
+   "olive oil",
+   "salt",
+   "thyme",
+   "water"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "protein",
+   "kase"
+  ]
+ },
+ {
+  "id": "pirincli-tavuk-meal-prep",
+  "title": "Chicken and Rice Meal Prep Boxes",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 41,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "chicken breast",
+   "rice",
+   "broccoli",
+   "carrot",
+   "olive oil",
+   "thyme",
+   "red pepper flakes",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "öğün hazırlığı",
+   "protein"
+  ]
+ },
+ {
+  "id": "nohutlu-protein-salatasi",
+  "title": "Chickpea Protein Salad",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 20,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "cooked chickpeas",
+   "eggs",
+   "lettuce",
+   "tomato",
+   "cucumber",
+   "lemon",
+   "olive oil",
+   "cumin",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "protein",
+   "doyurucu",
+   "salata"
+  ]
+ },
+ {
+  "id": "sebzeli-yumurta-beyazi-omleti",
+  "title": "Egg White Vegetable Omelette",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 19,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "eggs",
+   "spinach",
+   "pepper",
+   "mushrooms",
+   "olive oil",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "kahvaltı",
+   "protein"
+  ]
+ },
+ {
+  "id": "kefirli-yulaf-kasesi",
+  "title": "Kefir Oat Bowl",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 15,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "kefir",
+   "rolled oats",
+   "banana",
+   "walnuts",
+   "cinnamon",
+   "honey"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "kahvaltı",
+   "hafif",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "mercimekli-protein-kasesi",
+  "title": "Lentil Protein Bowl",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 30,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "green lentils",
+   "eggs",
+   "coarse bulgur",
+   "cucumber",
+   "tomato",
+   "lemon",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "protein",
+   "kase"
+  ]
+ },
+ {
+  "id": "firinda-somonlu-sebze-kasesi",
+  "title": "Roast Salmon and Vegetable Bowl",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 40,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "salmon",
+   "sweet potato",
+   "broccoli",
+   "lemon",
+   "olive oil",
+   "salt",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "balık",
+   "protein"
+  ]
+ },
+ {
+  "id": "lor-peynirli-salata",
+  "title": "Salad with Lor Cheese",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 10,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "lor cheese (ricotta-style)",
+   "lettuce",
+   "tomato",
+   "cucumber",
+   "lemon",
+   "olive oil",
+   "fresh mint",
+   "salt"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "hafif",
+   "protein",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "hindi-fume-sandvic",
+  "title": "Smoked Turkey Sandwich",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 8,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "wholemeal bread",
+   "smoked turkey",
+   "lor cheese (ricotta-style)",
+   "lettuce",
+   "tomato",
+   "black pepper"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "pratik",
+   "öğle yemeği",
+   "pişirmesiz"
+  ]
+ },
+ {
+  "id": "ton-balikli-bulgur-kasesi",
+  "title": "Tuna and Bulgur Bowl",
+  "category": "Fitness Meals",
+  "difficulty": "Easy",
+  "servings": 4,
+  "total": 33,
+  "soak": null,
+  "image": null,
+  "ingredients": [
+   "coarse bulgur",
+   "canned tuna",
+   "sweetcorn",
+   "cucumber",
+   "tomato",
+   "lemon",
+   "olive oil",
+   "salt",
+   "water"
+  ],
+  "tags_tr": [
+   "sporcu",
+   "protein",
+   "öğle yemeği"
+  ]
+ }
+]
